@@ -1,2 +1,2 @@
 test and changes made
-commit: Save the status of an index
+commit: Save the status of an indexpull: Obtain the content of the remote repository
